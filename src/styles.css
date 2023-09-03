@@ -13,6 +13,10 @@ body {
   padding: 0;
   width: 100%;
 }
+html {
+  scroll-behavior: smooth;
+}
+
 
 div#main {
   display: flex;
@@ -123,3 +127,42 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+
+/* add a slide in animation */
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
