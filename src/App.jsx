@@ -11,7 +11,8 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
-
+import Education from "./Components/Education"; // Added this line
+<Education />
 import "./styles.css";
 
 /**
