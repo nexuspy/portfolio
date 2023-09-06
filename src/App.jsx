@@ -30,7 +30,7 @@ const siteProps = {
   email: "p.warhada@gmail.com",
   gitHub: "nexuspy",
   instagram: "___nexus___",
-  linkedIn: "Pratik Warhade",
+  linkedIn: "www.linkedin.com/in/pratik-warhade-a7b5441a1" ,
   medium: "",
   twitter: "Sarcas_tik",
   youTube: "Nexusss",
