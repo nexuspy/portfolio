@@ -33,8 +33,8 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "User design",
-  "Focus group testing",
+  "User design
+  "Focus group t
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible to all.";
+  "I am passionate about solving problems in new creative ways to drive innovation.  By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible to all.";
 
 const About = () => {
   return (
